@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+LIVE LINK OF THIS PROJECT : -  https://akashsk8.github.io/YouMovies/
+
+
 ## Getting Started
 
 First, run the development server:
